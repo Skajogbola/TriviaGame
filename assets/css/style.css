@@ -1,0 +1,17 @@
+body {
+    background: url('../images/bananas.png');
+ }
+.card.text-center{
+    width: 960px;
+    height: 500px;
+    margin-left: 300px;
+    margin-top: 150px;
+    background-color: goldenrod;
+} 
+.card-title{
+    padding-top: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button{
+    width: 150px;
+}
